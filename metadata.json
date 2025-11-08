@@ -1,0 +1,5 @@
+{
+  "name": "SnapDoodle",
+  "description": "A retro-style coloring book app that turns your photos into line art using AI. Features intuitive tools like a fill bucket, various brushes, and pinch-to-zoom for a fun and creative experience for all ages.",
+  "requestFramePermissions": []
+}

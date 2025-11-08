@@ -1,0 +1,22 @@
+{
+  "short_name": "SnapDoodle",
+  "name": "SnapDoodle",
+  "description": "A retro-style coloring book app that turns your photos into line art using AI.",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "theme_color": "#0a0a0a",
+  "background_color": "#000000"
+}
